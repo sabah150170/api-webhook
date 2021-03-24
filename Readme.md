@@ -5,7 +5,7 @@ Docker local build and run:
 
 
 Heroku Docker Deploy:
-	sudo su 												(docker is running with root perm. )
+	sudo su 														(docker is running with root perm. )
 	heroku login -i 										
 	heroku container:login 
 	heroku create 											(heroku app name will be created)
