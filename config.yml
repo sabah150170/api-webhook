@@ -3,4 +3,4 @@ server:
   host: "0.0.0.0:"
 
 environment:
-  DUMMY_WEBHOOK_URL: "https://webhook.site/eee7d6d1-7ece-4124-9e1e-a33eb06c4eba"
+  DUMMY_WEBHOOK_URL: " "
